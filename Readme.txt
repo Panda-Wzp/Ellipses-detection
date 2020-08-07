@@ -10,3 +10,4 @@ OpenCV (Version 2.4.10)
 
 How to use:
 run the file "main.m"
+Note: if MATLAB prompts  "PointToPoint.mexw64" is invalid, try typing in its command window:mex -setup, and choose"mex -setup C++ "
